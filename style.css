@@ -1,0 +1,37 @@
+.theme {
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.light {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.light h1 {
+    color: #33A1E0f9;
+}
+
+.dark {
+    background-color: black;
+    color: #f2f2f2;
+}
+
+.dark h1 {
+    color: rgb(37, 196, 135);
+}
+
+.nature {
+    background-color: rgb(137, 233, 166);
+    color: #fff;
+}
+
+.nature h1 {
+    color: rgb(10, 133, 47)}
+
+    .nature p{
+        color: rgb(6, 59, 6);
+    }
