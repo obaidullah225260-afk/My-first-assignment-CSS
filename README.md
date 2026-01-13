@@ -1,2 +1,2 @@
 # My-first-assignment-CSS
-new repo my 1st assingnment HTML
+new repo my 1st assingnment CSS
